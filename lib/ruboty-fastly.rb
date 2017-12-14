@@ -1,1 +1,1 @@
-require 'ruboty-fastly/version'
+require 'ruboty/fastly'
