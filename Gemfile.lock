@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ruboty-fastly (0.1.0)
+    ruboty-fastly (0.1.1)
       fastly
       ruboty
 
